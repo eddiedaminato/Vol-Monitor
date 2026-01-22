@@ -1,4 +1,4 @@
-# **Greeks & Volatility Surface Analyze**
+# **Greeks & Volatility Surface Monitor**
 
 Advanced options analytics tool for Greeks calculation and implied volatility surface visualization.
 
