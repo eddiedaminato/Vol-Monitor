@@ -19,4 +19,6 @@ This repository hosts a suite of Python-based tools designed for advanced financ
 - [ ] **FX Normalization:** Automatic conversion of financial statements to base currencies (USD/EUR/CHF).
 
 ---
-**Contact:** Eduardo Daminato - (https://www.linkedin.com/in/panachedu/) - eduardo@mollitiamalpha.com
+**Contact:** Eduardo Daminato - https://www.linkedin.com/in/panachedu/ - eduardo@mollitiamalpha.com
+      
+    Disclaimer: This tool is for educational purposes only and does not constitute financial advice.
